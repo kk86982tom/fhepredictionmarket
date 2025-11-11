@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Will Bitcoin price exceed $150,000 before March 2025?",
+    "basePrice": 6800,
+    "endDate": "2025-12-31",
+    "category": "Crypto",
+    "icon": "₿",
+    "topicId": 793,
+    "description": "Bitcoin breaking six figures milestone"
+  },
+  {
+    "question": "Will Ethereum 2.0 complete full rollout by Q4 2025?",
+    "basePrice": 4500,
+    "endDate": "2025-12-31",
+    "category": "Crypto",
+    "icon": "Ξ",
+    "topicId": 1092,
+    "description": "Major upgrade completion for Ethereum network"
+  },
+  {
+    "question": "Will the Federal Reserve cut interest rates in 2025?",
+    "basePrice": 7200,
+    "endDate": "2025-12-31",
+    "category": "Economics",
+    "icon": "📊",
+    "topicId": 814,
+    "description": "Fed monetary policy decision"
+  },
+  {
+    "question": "Will Tesla deliver 2 million vehicles in 2025?",
+    "basePrice": 5500,
+    "endDate": "2025-12-31",
+    "category": "Business",
+    "icon": "🚗",
+    "topicId": 791,
+    "description": "Tesla annual production milestone"
+  },
+  {
+    "question": "Will GPT-5 be released by OpenAI in 2025?",
+    "basePrice": 4200,
+    "endDate": "2025-12-31",
+    "category": "Technology",
+    "icon": "🤖",
+    "topicId": 793,
+    "description": "Next generation AI model launch"
+  }
+]
